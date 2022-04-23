@@ -44,11 +44,13 @@ By replacing the 9th graders' math and reading scoores Thomas High School's perf
 
   Original Summary
   
-    <img width="762" alt="Screen Shot 2022-04-23 at 3 46 35 PM" src="https://user-images.githubusercontent.com/101379969/164948506-e149c005-e4f6-4def-b740-790c549fa0a7.png">
+  <img width="762" alt="Screen Shot 2022-04-23 at 3 46 35 PM" src="https://user-images.githubusercontent.com/101379969/164948631-90ea1219-4eb2-44dc-8ce4-a3aeccc82081.png">
+
   
   Updated summary
   
-    <img width="762" alt="Screen Shot 2022-04-23 at 3 46 35 PM" src="https://user-images.githubusercontent.com/101379969/164948501-400fab17-7ed1-4451-b1b6-0985892a5ae6.png">
+   <img width="763" alt="Screen Shot 2022-04-23 at 3 54 29 PM" src="https://user-images.githubusercontent.com/101379969/164948673-d9e803a9-3900-4b76-8830-531cd92f3128.png">
+
   
    There was no affect on scores by school size.
 
